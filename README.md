@@ -1,4 +1,4 @@
-# Workshop 1.2 Gumbel and Shake
+# Workshop 1.2: Gumbel and Shake
 
 *Due: Wednesday, September 10, 2025.*
 
